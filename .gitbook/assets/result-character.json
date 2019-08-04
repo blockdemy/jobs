@@ -1,0 +1,15 @@
+{
+  "data": {
+    "character": {
+      "id": "5d299c853d1d85c017cc3e01",
+      "origin": {
+        "name": "Earth (C-137)"
+      },
+      "location": {
+        "name": "Earth (Replacement Dimension)"
+      },
+      "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+      "created": "2017-11-04T18:48:46.250Z"
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "locations": {
+      "info": {
+        "next": 4,
+        "pages": 4,
+        "count": 76,
+        "prev": 2
+      },
+      "results": [
+        {
+          "id": "5d299a853d1d85c017cc3e41",
+          "name": "Hamster in Butt World",
+          "type": "Planet",
+          "dimension": "unknown",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3153"
+            }
+          ],
+          "created": "2017-12-29T15:27:54.209Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e42",
+          "name": "Earth (Giant Telepathic Spiders Dimension)",
+          "type": "Planet",
+          "dimension": "Giant Telepathic Spiders Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3159"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3160"
+            }
+          ],
+          "created": "2017-12-29T16:03:28.720Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e43",
+          "name": "Alphabetrium",
+          "type": "Planet",
+          "dimension": "Replacement Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3161"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3162"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3212"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3213"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3253"
+            }
+          ],
+          "created": "2017-12-29T16:08:47.694Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e44",
+          "name": "Jerryboree",
+          "type": "Daycare",
+          "dimension": "unknown",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3174"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3257"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3441"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3442"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3443"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3444"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3445"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3446"
+            }
+          ],
+          "created": "2017-12-29T17:50:19.947Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e45",
+          "name": "Krootabulon",
+          "type": "Planet",
+          "dimension": "Replacement Dimension",
+          "residents": [],
+          "created": "2017-12-29T19:26:06.827Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e46",
+          "name": "Zigerion's Base",
+          "type": "Space station",
+          "dimension": "Dimension C-137",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3e87"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3191"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3270"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3337"
+            }
+          ],
+          "created": "2017-12-29T19:40:07.748Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e47",
+          "name": "Pluto",
+          "type": "Dwarf planet (Celestial Dwarf)",
+          "dimension": "Replacement Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3192"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3307"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3419"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3420"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3421"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3422"
+            }
+          ],
+          "created": "2017-12-29T19:49:29.228Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e48",
+          "name": "Fantasy World",
+          "type": "Planet",
+          "dimension": "Fantasy Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3e41"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3193"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3238"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3333"
+            }
+          ],
+          "created": "2017-12-29T19:55:54.672Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e49",
+          "name": "Zeep Xanflorp's Miniverse",
+          "type": "Miniverse",
+          "dimension": "Replacement Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3348"
+            }
+          ],
+          "created": "2017-12-29T19:58:44.675Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e50",
+          "name": "Kyle's Teenyverse",
+          "type": "Teenyverse",
+          "dimension": "Replacement Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3197"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3364"
+            }
+          ],
+          "created": "2017-12-30T12:36:19.730Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e51",
+          "name": "Larva Alien's Planet",
+          "type": "Planet",
+          "dimension": "Unknown dimension",
+          "residents": [],
+          "created": "2017-12-30T12:48:19.312Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e52",
+          "name": "Earth (K-22)",
+          "type": "Planet",
+          "dimension": "Dimension K-22",
+          "residents": [],
+          "created": "2017-12-30T16:33:49.507Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e53",
+          "name": "Mr. Meeseeks Box",
+          "type": "Box",
+          "dimension": "unknown",
+          "residents": [],
+          "created": "2017-12-30T17:52:12.217Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e54",
+          "name": "Vindicator's Base",
+          "type": "Spacecraft",
+          "dimension": "unknown",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3252"
+            }
+          ],
+          "created": "2017-12-31T12:57:37.824Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e55",
+          "name": "Pawn Shop Planet",
+          "type": "Planet",
+          "dimension": "Replacement Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3258"
+            }
+          ],
+          "created": "2017-12-31T13:30:33.579Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e56",
+          "name": "Mega Gargantuan Kingdom",
+          "type": "Microverse",
+          "dimension": "Replacement Dimension",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3269"
+            }
+          ],
+          "created": "2017-12-31T14:01:44.921Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e57",
+          "name": "Gear World",
+          "type": "Planet",
+          "dimension": "unknown",
+          "residents": [
+            {
+              "id": "5d299c853d1d85c017cc3282"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3447"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3448"
+            }
+          ],
+          "created": "2017-12-31T19:21:17.276Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e58",
+          "name": "Earth (D-99)",
+          "type": "Planet",
+          "dimension": "Dimension D-99",
+          "residents": [],
+          "created": "2017-12-31T19:49:55.109Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e59",
+          "name": "Earth (D716)",
+          "type": "Planet",
+          "dimension": "Dimension D716",
+          "residents": [],
+          "created": "2017-12-31T19:51:33.170Z"
+        },
+        {
+          "id": "5d299a853d1d85c017cc3e60",
+          "name": "Earth (D716-B)",
+          "type": "Planet",
+          "dimension": "Dimension D716-B",
+          "residents": [],
+          "created": "2017-12-31T19:55:25.026Z"
+        }
+      ]
+    }
+  }
+}

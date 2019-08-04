@@ -1,0 +1,109 @@
+{
+  "data": {
+    "episode": {
+      "id": "5d299b853d1d85c017cc3e03",
+      "name": "Anatomy Park",
+      "air_date": "December 16, 2013",
+      "episode": "S01E03",
+      "characters": [
+        {
+          "id": "5d299c853d1d85c017cc3e01",
+          "name": "Rick Sanchez"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e02",
+          "name": "Morty Smith"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e12",
+          "name": "Alexander"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e17",
+          "name": "Annie"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e38",
+          "name": "Beth Smith"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e45",
+          "name": "Bill"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e96",
+          "name": "Tuberculosis"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e97",
+          "name": "Gonorrhea"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e98",
+          "name": "Hepatitis A"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e99",
+          "name": "Hepatitis C"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3100",
+          "name": "Bubonic Plague"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3101",
+          "name": "E. Coli"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3108",
+          "name": "Dr. Xenon Bloom"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3112",
+          "name": "Eric McMan"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3114",
+          "name": "Ethan"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3169",
+          "name": "Jacob"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3175",
+          "name": "Jerry Smith"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3186",
+          "name": "Joyce Smith"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3201",
+          "name": "Leonard Smith"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3268",
+          "name": "Poncho"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3300",
+          "name": "Roger"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3302",
+          "name": "Ruben"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3338",
+          "name": "Summer Smith"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3356",
+          "name": "Tom Randolph"
+        }
+      ],
+      "created": "2017-11-10T12:56:34.022Z"
+    }
+  }
+}

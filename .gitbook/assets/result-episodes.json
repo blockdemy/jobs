@@ -1,0 +1,2226 @@
+{
+  "data": {
+    "episodes": {
+      "info": {
+        "next": 2,
+        "pages": 2,
+        "count": 31,
+        "prev": null
+      },
+      "results": [
+        {
+          "id": "5d299b853d1d85c017cc3e01",
+          "name": "Pilot",
+          "air_date": "December 2, 2013",
+          "episode": "S01E01",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e35",
+              "name": "Bepisian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e38",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e62",
+              "name": "Canklanker Thom"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e92",
+              "name": "Davin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3127",
+              "name": "Frank Palicky"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3144",
+              "name": "Glenn"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3158",
+              "name": "Hookah Alien"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3175",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3179",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3181",
+              "name": "Jessica's Friend"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3239",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3249",
+              "name": "Mrs. Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3271",
+              "name": "Principal Vagina"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3338",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3394",
+              "name": "Davin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3395",
+              "name": "Greebybobe"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3435",
+              "name": "Pripudlian"
+            }
+          ],
+          "created": "2017-11-10T12:56:33.798Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e02",
+          "name": "Lawnmower Dog",
+          "air_date": "December 9, 2013",
+          "episode": "S01E02",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e38",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e46",
+              "name": "Bill"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e63",
+              "name": "Centaur"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e80",
+              "name": "Creepy Little Girl"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3175",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3221",
+              "name": "Melissa"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3239",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3246",
+              "name": "Mrs. Pancakes"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3304",
+              "name": "Scary Brandon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3305",
+              "name": "Scary Glenn"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3306",
+              "name": "Scary Terry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3329",
+              "name": "Snuffles (Snowball)"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3338",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3396",
+              "name": "Scary Teacher"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3397",
+              "name": "Fido"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3398",
+              "name": "Accountant dog"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3405",
+              "name": "Trunkphobic suspenders guy"
+            }
+          ],
+          "created": "2017-11-10T12:56:33.916Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e03",
+          "name": "Anatomy Park",
+          "air_date": "December 16, 2013",
+          "episode": "S01E03",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e12",
+              "name": "Alexander"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e17",
+              "name": "Annie"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e38",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e45",
+              "name": "Bill"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e96",
+              "name": "Tuberculosis"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e97",
+              "name": "Gonorrhea"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e98",
+              "name": "Hepatitis A"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e99",
+              "name": "Hepatitis C"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3100",
+              "name": "Bubonic Plague"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3101",
+              "name": "E. Coli"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3108",
+              "name": "Dr. Xenon Bloom"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3112",
+              "name": "Eric McMan"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3114",
+              "name": "Ethan"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3169",
+              "name": "Jacob"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3175",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3186",
+              "name": "Joyce Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3201",
+              "name": "Leonard Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3268",
+              "name": "Poncho"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3300",
+              "name": "Roger"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3302",
+              "name": "Ruben"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3338",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3356",
+              "name": "Tom Randolph"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.022Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e04",
+          "name": "M. Night Shaym-Aliens!",
+          "air_date": "January 13, 2014",
+          "episode": "S01E04",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e38",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e87",
+              "name": "Cynthia"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3175",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3179",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3181",
+              "name": "Jessica's Friend"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3191",
+              "name": "Kevin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3239",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3241",
+              "name": "Mr. Marklovitz"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3270",
+              "name": "Prince Nebulon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3337",
+              "name": "Stu"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3338",
+              "name": "Summer Smith"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.129Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e05",
+          "name": "Meeseeks and Destroy",
+          "air_date": "January 20, 2014",
+          "episode": "S01E05",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e38",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e41",
+              "name": "Big Boobed Waitress"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e89",
+              "name": "Dale"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3116",
+              "name": "Evil Beth Clone"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3117",
+              "name": "Evil Jerry Clone"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3120",
+              "name": "Evil Summer Clone"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3175",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3193",
+              "name": "King Jellybean"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3238",
+              "name": "Mr. Booby Buyer"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3242",
+              "name": "Mr. Meeseeks"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3271",
+              "name": "Principal Vagina"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3303",
+              "name": "Samantha"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3326",
+              "name": "Slippery Stair"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3333",
+              "name": "Stair Goblin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3338",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3343",
+              "name": "Tammy Guetermann"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3399",
+              "name": "Tiny-persons advocacy group lawyer"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3400",
+              "name": "Giant Judge"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.236Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e06",
+          "name": "Rick Potion #9",
+          "air_date": "January 27, 2014",
+          "episode": "S01E06",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e38",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e58",
+              "name": "Brad"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e82",
+              "name": "Cronenberg Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e83",
+              "name": "Cronenberg Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e92",
+              "name": "Davin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3155",
+              "name": "Harold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3175",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3179",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3181",
+              "name": "Jessica's Friend"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3216",
+              "name": "MC Haps"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3234",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3239",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3249",
+              "name": "Mrs. Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3251",
+              "name": "Nancy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3271",
+              "name": "Principal Vagina"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3293",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3338",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3343",
+              "name": "Tammy Guetermann"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3394",
+              "name": "Davin"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.339Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e07",
+          "name": "Raising Gazorpazorp",
+          "air_date": "March 10, 2014",
+          "episode": "S01E07",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e59",
+              "name": "Brad Anderson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3151",
+              "name": "Gwendolyn"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3168",
+              "name": "Jackie"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3211",
+              "name": "Ma-Sha"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3230",
+              "name": "Morty Jr."
+            },
+            {
+              "id": "5d299c853d1d85c017cc3258",
+              "name": "Pawnshop Clerk"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3329",
+              "name": "Snuffles (Snowball)"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3376",
+              "name": "Veronica Ann Bennet"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3401",
+              "name": "Morty Jr's interviewer"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.441Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e08",
+          "name": "Rixty Minutes",
+          "air_date": "March 17, 2014",
+          "episode": "S01E08",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e20",
+              "name": "Ants in my Eyes Johnson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e28",
+              "name": "Attila Starwar"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e29",
+              "name": "Baby Legs"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e34",
+              "name": "Benjamin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e37",
+              "name": "Beth Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e54",
+              "name": "Bobby Moynihan"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e88",
+              "name": "Cynthia"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e91",
+              "name": "David Letterman"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3129",
+              "name": "Fulgora"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3134",
+              "name": "Garmanarnar"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3136",
+              "name": "Gazorpazorpfield"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3145",
+              "name": "Glenn"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3153",
+              "name": "Hamster In Butt"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3157",
+              "name": "Hole in the Wall Where the Men Can See it All"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3176",
+              "name": "Celebrity Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3183",
+              "name": "Johnny Depp"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3184",
+              "name": "Jon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3195",
+              "name": "Kristen Stewart"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3207",
+              "name": "Loggins"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3214",
+              "name": "Man Painted Silver Who Makes Robot Noises"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3222",
+              "name": "Michael Denny and the Denny Singers"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3250",
+              "name": "Mrs. Sullivan"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3266",
+              "name": "Piece of Toast"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3277",
+              "name": "Real Fake Doors Salesman"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3279",
+              "name": "Regular Legs"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3314",
+              "name": "Shmlamantha Shmlicelli"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3315",
+              "name": "Shmlangela Shmlobinson-Shmlower"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3316",
+              "name": "Shmlona Shmlobinson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3317",
+              "name": "Shmlonathan Shmlower"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3318",
+              "name": "Shmlony Shmlicelli"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3351",
+              "name": "Three Unknown Things"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3358",
+              "name": "Tophat Jones"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3367",
+              "name": "Trunk Man"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3370",
+              "name": "Two Guys with Handlebar Mustaches"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3373",
+              "name": "Unmuscular Michael"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3402",
+              "name": "Guy from The Bachelor"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3403",
+              "name": "Corn detective"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3404",
+              "name": "Michael Jackson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3405",
+              "name": "Trunkphobic suspenders guy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3406",
+              "name": "Spiderweb teddy bear"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3407",
+              "name": "Regular Tyrion Lannister"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3408",
+              "name": "Quick Mistery Presenter"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3409",
+              "name": "Mr. Sneezy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3410",
+              "name": "Two Brothers"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3411",
+              "name": "Alien Mexican Armada"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3412",
+              "name": "Giant Cat Monster"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3413",
+              "name": "Old Women"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3414",
+              "name": "Trunkphobic guy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3415",
+              "name": "Pro trunk people marriage guy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3416",
+              "name": "Muscular Mannie"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3417",
+              "name": "Baby Legs Chief"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3418",
+              "name": "Mrs. Sullivan's Boyfriend"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.543Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e09",
+          "name": "Something Ricked This Way Comes",
+          "air_date": "March 24, 2014",
+          "episode": "S01E09",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e88",
+              "name": "Cynthia"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3192",
+              "name": "King Flippy Nips"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3240",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3243",
+              "name": "Mr. Needful"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3251",
+              "name": "Nancy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3272",
+              "name": "Principal Vagina"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3307",
+              "name": "Scroopy Noopers"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3419",
+              "name": "Plutonian Hostess"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3420",
+              "name": "Plutonian Host"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3421",
+              "name": "Rich Plutonian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3422",
+              "name": "Rich Plutonian"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.645Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e10",
+          "name": "Close Rick-counters of the Rick Kind",
+          "air_date": "April 7, 2014",
+          "episode": "S01E10",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e07",
+              "name": "Abradolf Lincler"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e14",
+              "name": "Alien Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e15",
+              "name": "Alien Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e18",
+              "name": "Antenna Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e19",
+              "name": "Antenna Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e21",
+              "name": "Aqua Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e22",
+              "name": "Aqua Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e27",
+              "name": "Artist Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e39",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e53",
+              "name": "Blue Shirt Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e77",
+              "name": "Cowboy Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e78",
+              "name": "Cowboy Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e79",
+              "name": "Crab Spider"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e82",
+              "name": "Cronenberg Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e83",
+              "name": "Cronenberg Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e84",
+              "name": "Cult Leader Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e85",
+              "name": "Cyclops Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e86",
+              "name": "Cyclops Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3103",
+              "name": "Doofus Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3113",
+              "name": "Eric Stoltz Mask Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3118",
+              "name": "Evil Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3119",
+              "name": "Evil Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3152",
+              "name": "Hammerhead Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3164",
+              "name": "Insurance Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3177",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3209",
+              "name": "Long Sleeved Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3215",
+              "name": "Maximums Rickimus"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3232",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3242",
+              "name": "Mr. Meeseeks"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3274",
+              "name": "Quantum Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3285",
+              "name": "Rick Prime"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3290",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3294",
+              "name": "Ricktiminus Sancheziminius"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3295",
+              "name": "Riq IV"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3298",
+              "name": "Robot Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3299",
+              "name": "Robot Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3329",
+              "name": "Snuffles (Snowball)"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3330",
+              "name": "Solicitor Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3339",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3349",
+              "name": "The Scientist Formerly Known as Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3359",
+              "name": "Tortured Morty"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3381",
+              "name": "Woman Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3389",
+              "name": "Zeta Alpha Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3405",
+              "name": "Trunkphobic suspenders guy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3424",
+              "name": "Pizza-person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3425",
+              "name": "Pizza-person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3426",
+              "name": "Greasy Grandma"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3427",
+              "name": "Phone-person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3428",
+              "name": "Phone-person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3429",
+              "name": "Chair-person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3430",
+              "name": "Chair-person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3431",
+              "name": "Chair-homeless"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3432",
+              "name": "Chair-waiter"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3433",
+              "name": "Doopidoo"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3434",
+              "name": "Super Weird Rick"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.747Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e11",
+          "name": "Ricksy Business",
+          "air_date": "April 14, 2014",
+          "episode": "S01E11",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e07",
+              "name": "Abradolf Lincler"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e35",
+              "name": "Bepisian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e47",
+              "name": "Birdperson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e58",
+              "name": "Brad"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e88",
+              "name": "Cynthia"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3180",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3181",
+              "name": "Jessica's Friend"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3210",
+              "name": "Lucy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3216",
+              "name": "MC Haps"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3251",
+              "name": "Nancy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3282",
+              "name": "Revolio Clockberg Jr."
+            },
+            {
+              "id": "5d299c853d1d85c017cc3295",
+              "name": "Riq IV"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3308",
+              "name": "Scropon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3326",
+              "name": "Slippery Stair"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3327",
+              "name": "Slow Mobius"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3331",
+              "name": "Squanchy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3333",
+              "name": "Stair Goblin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3344",
+              "name": "Tammy Guetermann"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3362",
+              "name": "Traflorkian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3389",
+              "name": "Zeta Alpha Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3395",
+              "name": "Greebybobe"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3405",
+              "name": "Trunkphobic suspenders guy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3423",
+              "name": "Synthetic Laser Eels"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3435",
+              "name": "Pripudlian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3436",
+              "name": "Giant Testicle Monster"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.850Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e12",
+          "name": "A Rickle in Time",
+          "air_date": "July 26, 2015",
+          "episode": "S02E01",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e11",
+              "name": "Albert Einstein"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e64",
+              "name": "Chris"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3237",
+              "name": "Mr. Benson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3313",
+              "name": "Shleemypants"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3437",
+              "name": "Michael"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3438",
+              "name": "Michael's Lawyer"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3439",
+              "name": "Veterinary"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3440",
+              "name": "Veterinary Nurse"
+            }
+          ],
+          "created": "2017-11-10T12:56:34.953Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e13",
+          "name": "Mortynight Run",
+          "air_date": "August 2, 2015",
+          "episode": "S02E02",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e23",
+              "name": "Arcade Alien"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e28",
+              "name": "Attila Starwar"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e34",
+              "name": "Benjamin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3106",
+              "name": "Dr. Schmidt"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3122",
+              "name": "Fart"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3129",
+              "name": "Fulgora"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3131",
+              "name": "Gar Gloonch"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3133",
+              "name": "Garblovian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3136",
+              "name": "Gazorpazorpfield"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3174",
+              "name": "Jerry 5-126"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3180",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3196",
+              "name": "Krombopulos Michael"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3207",
+              "name": "Loggins"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3242",
+              "name": "Mr. Meeseeks"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3257",
+              "name": "Paul Fleishman"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3282",
+              "name": "Revolio Clockberg Jr."
+            },
+            {
+              "id": "5d299c853d1d85c017cc3309",
+              "name": "Scrotian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3311",
+              "name": "Shimshamian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3362",
+              "name": "Traflorkian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3386",
+              "name": "Zarbadar Gloonch"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3393",
+              "name": "Roy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3436",
+              "name": "Giant Testicle Monster"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3441",
+              "name": "Bearded Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3442",
+              "name": "Shaved Head Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3443",
+              "name": "Tank Top Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3444",
+              "name": "Pink Polo Shirt Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3445",
+              "name": "Jerryboree Keeper"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3446",
+              "name": "Jerryboree Receptionist"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3447",
+              "name": "Anchor Gear"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3448",
+              "name": "Gear Cop"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3449",
+              "name": "Roy's Mum"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3450",
+              "name": "Roy's Wife"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3451",
+              "name": "Roy's Son"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.055Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e14",
+          "name": "Auto Erotic Assimilation",
+          "air_date": "August 9, 2015",
+          "episode": "S02E03",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e36",
+              "name": "Beta-Seven"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e50",
+              "name": "Blim Blam"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e90",
+              "name": "Daron Jefferson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3188",
+              "name": "Karen Entity"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3249",
+              "name": "Mrs. Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3301",
+              "name": "Ron Benson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3336",
+              "name": "Steven Phillips"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3355",
+              "name": "Todd Crystal"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3372",
+              "name": "Unity"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.158Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e15",
+          "name": "Total Rickall",
+          "air_date": "August 16, 2015",
+          "episode": "S02E04",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e16",
+              "name": "Amish Cyborg"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e31",
+              "name": "Baby Wizard"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e32",
+              "name": "Bearded Lady"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e76",
+              "name": "Cousin Nicky"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3109",
+              "name": "Duck With Muscles"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3128",
+              "name": "Frankenstein's Monster"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3141",
+              "name": "Ghost in a Jar"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3154",
+              "name": "Hamurai"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3169",
+              "name": "Jacob"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3236",
+              "name": "Mr. Beauregard"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3244",
+              "name": "Mr. Poopybutthole"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3248",
+              "name": "Mrs. Refrigerator"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3259",
+              "name": "Pencilvester"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3262",
+              "name": "Photography Raptor"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3280",
+              "name": "Reverse Giraffe"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3324",
+              "name": "Sleepy Gary"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3329",
+              "name": "Snuffles (Snowball)"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3352",
+              "name": "Tinkles"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3391",
+              "name": "Uncle Steve"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.261Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e16",
+          "name": "Get Schwifty",
+          "air_date": "August 23, 2015",
+          "episode": "S02E05",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e24",
+              "name": "Armagheadon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e47",
+              "name": "Birdperson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3115",
+              "name": "Ethan"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3124",
+              "name": "Father Bob"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3138",
+              "name": "General Nathan"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3161",
+              "name": "Hydrogen-F"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3162",
+              "name": "Ice-T"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3172",
+              "name": "Jamey"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3182",
+              "name": "Jim"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3199",
+              "name": "Larva Alien"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3212",
+              "name": "Magma-Q"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3213",
+              "name": "Magnesium-J"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3240",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3241",
+              "name": "Mr. Marklovitz"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3253",
+              "name": "Numbericon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3255",
+              "name": "Orthodox Jew"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3272",
+              "name": "Principal Vagina"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3309",
+              "name": "Scrotian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3329",
+              "name": "Snuffles (Snowball)"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3331",
+              "name": "Squanchy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3344",
+              "name": "Tammy Guetermann"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3346",
+              "name": "Terry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3347",
+              "name": "The President"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3395",
+              "name": "Greebybobe"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3452",
+              "name": "Simon"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3454",
+              "name": "Arbolian Mentirososian"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.364Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e17",
+          "name": "The Ricks Must Be Crazy",
+          "air_date": "August 30, 2015",
+          "episode": "S02E06",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e28",
+              "name": "Attila Starwar"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e34",
+              "name": "Benjamin"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e65",
+              "name": "Chris"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3129",
+              "name": "Fulgora"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3159",
+              "name": "Hunter"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3160",
+              "name": "Hunter's Father"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3180",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3181",
+              "name": "Jessica's Friend"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3197",
+              "name": "Kyle"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3207",
+              "name": "Loggins"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3240",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3266",
+              "name": "Piece of Toast"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3348",
+              "name": "The President of the Miniverse"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3364",
+              "name": "Tree Person"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3388",
+              "name": "Zeep Xanflorp"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.467Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e18",
+          "name": "Big Trouble in Little Sanchez",
+          "air_date": "September 13, 2015",
+          "episode": "S02E07",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e40",
+              "name": "Beth's Mytholog"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e55",
+              "name": "Boobloosian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e66",
+              "name": "Coach Feratu (Balik Alistane)"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3131",
+              "name": "Gar Gloonch"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3132",
+              "name": "Gar's Mytholog"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3146",
+              "name": "Glexo Slim Slom"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3148",
+              "name": "Goddess Beth"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3163",
+              "name": "Ideal Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3178",
+              "name": "Jerry's Mytholog"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3180",
+              "name": "Jessica"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3181",
+              "name": "Jessica's Friend"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3240",
+              "name": "Mr. Goldenfold"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3272",
+              "name": "Principal Vagina"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3310",
+              "name": "Self-Congratulatory Jerry"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3353",
+              "name": "Tiny Rick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3354",
+              "name": "Toby Matthews"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3358",
+              "name": "Tophat Jones"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3374",
+              "name": "Vampire Master"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3386",
+              "name": "Zarbadar Gloonch"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3387",
+              "name": "Zarbadar's Mytholog"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3453",
+              "name": "Vampire Master's Assistant"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.569Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e19",
+          "name": "Interdimensional Cable 2: Tempting Fate",
+          "air_date": "September 20, 2015",
+          "episode": "S02E08",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e23",
+              "name": "Arcade Alien"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e35",
+              "name": "Bepisian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e49",
+              "name": "Blamph"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e51",
+              "name": "Blue Diplomat"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3105",
+              "name": "Dr. Glip-Glop"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3121",
+              "name": "Eyehole Man"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3126",
+              "name": "Fleeb"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3133",
+              "name": "Garblovian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3153",
+              "name": "Hamster In Butt"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3173",
+              "name": "Jan-Michael Vincent"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3199",
+              "name": "Larva Alien"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3205",
+              "name": "Little Dipper"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3223",
+              "name": "Michael Jenkins"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3224",
+              "name": "Michael McLick"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3225",
+              "name": "Michael Thompson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3254",
+              "name": "Octopus Man"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3260",
+              "name": "Phillip Jacobs"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3263",
+              "name": "Pibbles Bodyguard"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3264",
+              "name": "Pichael Thompson"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3275",
+              "name": "Randy Dicknose"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3312",
+              "name": "Shlaammi"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3321",
+              "name": "Shrimply Pibbles"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3334",
+              "name": "Stealy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3362",
+              "name": "Traflorkian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3371",
+              "name": "Tumblorkian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3383",
+              "name": "Yaarb"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3384",
+              "name": "Yellow Headed Doctor"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3435",
+              "name": "Pripudlian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3454",
+              "name": "Arbolian Mentirososian"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3455",
+              "name": "St. Gloopy Noops Nurse"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3456",
+              "name": "Nano Doctor"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3457",
+              "name": "Funny Songs Presenter"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3458",
+              "name": "Tax Attorney"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3459",
+              "name": "Butthole Ice Cream Guy"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3460",
+              "name": "Traflorkian Journalist"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.669Z"
+        },
+        {
+          "id": "5d299b853d1d85c017cc3e20",
+          "name": "Look Who's Purging Now",
+          "air_date": "September 27, 2015",
+          "episode": "S02E09",
+          "characters": [
+            {
+              "id": "5d299c853d1d85c017cc3e01",
+              "name": "Rick Sanchez"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e02",
+              "name": "Morty Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e03",
+              "name": "Summer Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e04",
+              "name": "Beth Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e05",
+              "name": "Jerry Smith"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3e26",
+              "name": "Arthricia"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3139",
+              "name": "General Store Owner"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3202",
+              "name": "Lighthouse Keeper"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3273",
+              "name": "Purge Planet Ruler"
+            },
+            {
+              "id": "5d299c853d1d85c017cc3341",
+              "name": "Taddy Mason"
+            }
+          ],
+          "created": "2017-11-10T12:56:35.772Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "location": {
+      "id": "5d299a853d1d85c017cc3e52",
+      "name": "Earth (K-22)",
+      "type": "Planet",
+      "dimension": "Dimension K-22",
+      "residents": [
+        null
+      ],
+      "created": "2017-12-30T16:33:49.507Z"
+    }
+  }
+}

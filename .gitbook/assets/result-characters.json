@@ -1,0 +1,480 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "next": 3,
+        "pages": 25,
+        "count": 493,
+        "prev": 1
+      },
+      "results": [
+        {
+          "id": "5d299c853d1d85c017cc3e21",
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "species": "Humanoid",
+          "type": "Fish-Person",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e03"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e10"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e22"
+            }
+          ],
+          "created": "2017-11-04T22:39:48.055Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e22",
+          "name": "Aqua Rick",
+          "status": "unknown",
+          "species": "Humanoid",
+          "type": "Fish-Person",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e03"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e10"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e22"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e28"
+            }
+          ],
+          "created": "2017-11-04T22:41:07.171Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e23",
+          "name": "Arcade Alien",
+          "status": "unknown",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e07"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e13"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e19"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e21"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e25"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e26"
+            }
+          ],
+          "created": "2017-11-05T08:43:05.095Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e24",
+          "name": "Armagheadon",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cromulon",
+          "gender": "Male",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e22",
+            "name": "Signus 5 Expanse"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e22"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e16"
+            }
+          ],
+          "created": "2017-11-05T08:48:30.776Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e25",
+          "name": "Armothy",
+          "status": "Dead",
+          "species": "unknown",
+          "type": "Self-aware arm",
+          "gender": "Male",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e08",
+            "name": "Post-Apocalyptic Earth"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e08"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e23"
+            }
+          ],
+          "created": "2017-11-05T08:54:29.343Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e26",
+          "name": "Arthricia",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Cat-Person",
+          "gender": "Female",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e09",
+            "name": "Purge Planet"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e09"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e20"
+            }
+          ],
+          "created": "2017-11-05T08:56:46.165Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e27",
+          "name": "Artist Morty",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e03"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e10"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e28"
+            }
+          ],
+          "created": "2017-11-05T08:59:07.457Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e28",
+          "name": "Attila Starwar",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e06"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e08"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e13"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e17"
+            }
+          ],
+          "created": "2017-11-05T09:02:16.595Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e29",
+          "name": "Baby Legs",
+          "status": "Alive",
+          "species": "Human",
+          "type": "Human with baby legs",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e06"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e08"
+            }
+          ],
+          "created": "2017-11-05T09:06:19.644Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e30",
+          "name": "Baby Poopybutthole",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Male",
+          "origin": null,
+          "location": null,
+          "image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e31"
+            }
+          ],
+          "created": "2017-11-05T09:13:16.483Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e31",
+          "name": "Baby Wizard",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e20"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e15"
+            }
+          ],
+          "created": "2017-11-05T09:15:11.286Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e32",
+          "name": "Bearded Lady",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "Parasite",
+          "gender": "Female",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e20"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e15"
+            }
+          ],
+          "created": "2017-11-05T09:18:04.184Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e33",
+          "name": "Beebo",
+          "status": "Dead",
+          "species": "Alien",
+          "type": "",
+          "gender": "Male",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e10",
+            "name": "Venzenulon 7"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e10"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e29"
+            }
+          ],
+          "created": "2017-11-05T09:21:55.595Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e34",
+          "name": "Benjamin",
+          "status": "Alive",
+          "species": "Poopybutthole",
+          "type": "",
+          "gender": "Male",
+          "origin": null,
+          "location": {
+            "id": "5d299a853d1d85c017cc3e06"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e08"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e13"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e17"
+            }
+          ],
+          "created": "2017-11-05T09:24:04.748Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e35",
+          "name": "Bepisian",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Bepisian",
+          "gender": "unknown",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e11",
+            "name": "Bepis 9"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e11"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e01"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e11"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e19"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e25"
+            }
+          ],
+          "created": "2017-11-05T09:27:38.491Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e36",
+          "name": "Beta-Seven",
+          "status": "Alive",
+          "species": "Alien",
+          "type": "Hivemind",
+          "gender": "unknown",
+          "origin": null,
+          "location": null,
+          "image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e14"
+            }
+          ],
+          "created": "2017-11-05T09:31:08.952Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e37",
+          "name": "Beth Sanchez",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e23",
+            "name": "Earth (C-500A)"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e23"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e08"
+            }
+          ],
+          "created": "2017-11-05T09:38:22.960Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e38",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e01",
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e01"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e01"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e02"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e03"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e04"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e05"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e06"
+            },
+            {
+              "id": "5d299b853d1d85c017cc3e22"
+            }
+          ],
+          "created": "2017-11-05T09:48:44.230Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e39",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e34",
+            "name": "Earth (Evil Rick's Target Dimension)"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e34"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e10"
+            }
+          ],
+          "created": "2017-11-05T09:52:31.777Z"
+        },
+        {
+          "id": "5d299c853d1d85c017cc3e40",
+          "name": "Beth's Mytholog",
+          "status": "Dead",
+          "species": "Mytholog",
+          "type": "",
+          "gender": "Female",
+          "origin": {
+            "id": "5d299a853d1d85c017cc3e13",
+            "name": "Nuptia 4"
+          },
+          "location": {
+            "id": "5d299a853d1d85c017cc3e13"
+          },
+          "image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg",
+          "episode": [
+            {
+              "id": "5d299b853d1d85c017cc3e18"
+            }
+          ],
+          "created": "2017-11-05T10:02:26.701Z"
+        }
+      ]
+    }
+  }
+}
